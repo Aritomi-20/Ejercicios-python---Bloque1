@@ -1,0 +1,11 @@
+numero1 = int (input ("Introduce el primer numero:"))
+numero2 = int (input ("Introduce el segundo numero:"))
+suma = int(numero1 + numero2)
+resta = int(numero1 - numero2)
+divicion = int(numero1 / numero2)
+multiplicacion = int(numero1 * numero2)
+print (f"Resultado de la Suma: {suma}")
+print (f"Resultado de la Resta: {resta}")
+print (f"Resultado de la División: {divicion}")
+print (f"Resultado de la Multiplicación: {multiplicacion}")
+
